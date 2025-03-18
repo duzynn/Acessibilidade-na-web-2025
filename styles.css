@@ -140,3 +140,9 @@ h2 {
 .form-control {
     background-color: #F1EDEF;
 }
+.rotaçao-botao{
+transform: rotate(-90dge);
+transform-origin: right center;
+
+
+}
