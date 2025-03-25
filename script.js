@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const aumentaFonteBotao=document.getElementsById('aumentar-fonte');
+    const aumentaFonteBotao=document.getElementById('aumentar-fonte');
     const diminuirFonteBotao=document.getElementById('diminuir-fonte');
 
     let  tamanhoAtualFonte=1;
