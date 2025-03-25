@@ -13,3 +13,4 @@ document.body.style.fontSize=`$(tamanhoAtualFonte)rem`
 
     })
 })
+
